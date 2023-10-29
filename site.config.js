@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `dba10`,
-      href: "https://dba10.vercel.app/projects",
+      href: "https://dba10.vercel.app",
     },
   ],
   // blog setting (required)
