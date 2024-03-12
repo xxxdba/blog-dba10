@@ -13,17 +13,17 @@ const CONFIG = {
   projects: [
     {
       name: `dba10`,
-      href: "https://dba10.vercel.app",
+      href: "https://db10.vercel.app",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "blog-dba10",
-    description: "welcome to blog-dba10!",
+    title: "db10-blog",
+    description: "welcome to db10-blog!",
   },
 
   // CONFIG configration (required)
-  link: "https://blog-dba10.vercel.app",
+  link: "https://db10-blog.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://github.com/xxxdba/blog-dba10/blob/main/public/apple-touch-icon.png", // The link to generate OG image, don't end with a slash
