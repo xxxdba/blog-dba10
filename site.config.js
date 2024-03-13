@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `dba10`,
+      name: `db10`,
       href: "https://db10.vercel.app",
     },
   ],
