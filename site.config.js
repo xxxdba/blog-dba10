@@ -21,7 +21,7 @@ const CONFIG = {
     title: "db10-blog",
     description: "welcome to db10-blog!",
   },
-
+ 
   // CONFIG configration (required)
   link: "https://db10-blog.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
