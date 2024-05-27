@@ -23,7 +23,7 @@ const CONFIG = {
   },
  
   // CONFIG configration (required)
-  link: "https://db10-blog.vercel.app",
+  link: "https://dba10-blog.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://github.com/xxxdba/blog-dba10/blob/main/public/apple-touch-icon.png", // The link to generate OG image, don't end with a slash
