@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `db10`,
-      href: "https://db10.vercel.app",
+      name: `dba10`,
+      href: "https://dba10.vercel.app",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "db10-blog",
-    description: "welcome to db10-blog!",
+    title: "dba10-blog",
+    description: "welcome to dba10-blog!",
   },
  
   // CONFIG configration (required)
